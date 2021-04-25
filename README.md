@@ -1,16 +1,24 @@
-# ques_and_ans_app
+## Flutter Quiz App-Jai
 
-A new Flutter project.
+This project is a starting point for a Flutter Application.
 
-## Getting Started
+First App In Way To Learn Flutter. This is a quiz app that generates 10 questions of Quizand all the question revise your Basic Flutter topics.The result is finally displayed depending upon the number of questions answered correctly by the user. Questions are saved in lib/main.dart files.
 
-This project is a starting point for a Flutter application.
+## Process flow of the app
+1.Firstly open the App.
+2.Questions are displayed one by one you can give the Answers of each of the Questions.
+3.Side by Side Your score will Calculated.
+4.At Last the score is Displayed in the Screen 
+5.If you start again the quiz by pressing Restart Button.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+1.This App Revise your Flutter and Dart basic Interview Question.
+2.This Apps runs Android as well as ISO Devices both.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Steps To Run App
+1.cd Flutter-Quiz-Project
+2.flutter run
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+
