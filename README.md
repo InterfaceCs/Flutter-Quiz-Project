@@ -21,7 +21,7 @@ First App In Way To Learn Flutter. This is a quiz app that generates 10 question
 
 ## Screenshots
 
-|![Screenshot 2021-04-25 at 4 16 21 PM](https://user-images.githubusercontent.com/77659857/115997513-f5dc5300-a600-11eb-9eb9-9013cb826087.png)|![Screenshot 2021-04-25 at 4 17 32 PM](https://user-images.githubusercontent.com/77659857/115997609-4a7fce00-a601-11eb-9b2d-ab652f1bb20b.png)|![Screenshot 2021-04-25 at 4 18 15 PM](https://user-images.githubusercontent.com/77659857/115997646-831fa780-a601-11eb-8461-40067101487e.png)|![Screenshot 2021-04-25 at 4 15 33 PM](https://user-images.githubusercontent.com/77659857/115997669-9cc0ef00-a601-11eb-8229-f8ebd841cc9e.png)</br>
+|![Screenshot 2021-04-25 at 4 16 21 PM](https://user-images.githubusercontent.com/77659857/115997513-f5dc5300-a600-11eb-9eb9-9013cb826087.png)|![Screenshot 2021-04-25 at 4 17 32 PM](https://user-images.githubusercontent.com/77659857/115997609-4a7fce00-a601-11eb-9b2d-ab652f1bb20b.png)|![Screenshot 2021-04-25 at 4 18 15 PM](https://user-images.githubusercontent.com/77659857/115997646-831fa780-a601-11eb-8461-40067101487e.png)</br>
 ![Screenshot 2021-04-25 at 4 22 47 PM](https://user-images.githubusercontent.com/77659857/115997693-ba8e5400-a601-11eb-87b8-f830950ce493.png)
 
 
